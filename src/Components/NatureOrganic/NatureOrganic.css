@@ -1,0 +1,47 @@
+.Healthy-life{
+  width: 256px;
+  height: 48px;
+  margin: 75px 308px 0 0;
+  font-family: LibreBaskerville;
+  font-size: 30px;
+  line-height: 1.33;
+  text-align: left;
+  color: #374b5c;
+}
+.Nature-organic{
+    width: 404px;
+  height: 74px;
+  margin-right:160px ;
+  font-family: LibreBaskerville;
+  font-size: 56px;
+  font-weight: bold;
+  line-height: 1.32;
+  text-align: left;
+  color: #374b5c;
+}
+.sec-written{
+    width: 389px;
+    height: 54px;
+    margin: 35px 175px 35px 0;
+    font-family: LibreBaskerville;
+    font-size: 20px;
+    line-height: 1.35;
+    text-align: left;
+    color: #374b5c;
+  }
+.explore-now{
+    color:white;
+    width: 220px;
+    height: 54px;
+    margin: 35px 344px 115px 0;
+    padding: 14px 64px 16px 48px;
+    border-radius: 10px;
+    background-color: #00dbd0;
+    border: none;
+  }
+
+.image-section{
+    background-image: url(../../Image/bg.png);
+    background-repeat: no-repeat;
+    background-position:center ;
+}

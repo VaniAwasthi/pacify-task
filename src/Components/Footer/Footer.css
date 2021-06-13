@@ -1,0 +1,9 @@
+.Footer-section{
+background-image: url(../../Image/backgrnd.png);
+height: 300px;
+background-repeat: no-repeat;
+bottom: 0;
+overflow: hidden;
+color: white;
+    
+}

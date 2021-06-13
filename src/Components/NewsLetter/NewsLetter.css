@@ -1,0 +1,29 @@
+.leaves {
+  /* width: 150px; */
+  height: 600px;
+  margin-right: auto;
+  transform: rotate(180deg);
+}
+.names {
+  font-size: 26px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+.messages {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+.clientImg {
+  border-radius: 50%;
+  margin: 20px 0;
+}
+.sideFlower {
+  width: 470px;
+  transform: rotate(190deg);
+}
+.carousel-indicators li {
+  visibility: hidden;
+}
